@@ -66,3 +66,5 @@ gem "jquery-rails"
 
 gem 'devise'
 gem 'devise-bootstrapped'
+
+gem 'acts_as_commentable'
